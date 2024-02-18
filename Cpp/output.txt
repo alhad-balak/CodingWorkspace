@@ -1,0 +1,7 @@
+aba: 0 
+ab: 0 1 
+abab: 0 
+a: 0 1 
+
+abab: 0 ab: 0 1 bab: 0 b: 0 1 
+2
